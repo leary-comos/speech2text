@@ -138,4 +138,4 @@ with open(my_text_url + my_text_file,'r',encoding='utf-8') as r:
             w.write(line + '\n')
 
 
-
+
