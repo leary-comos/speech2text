@@ -164,4 +164,4 @@ if __name__ == '__main__':
         else:
             with open("ntw.txt", "w",encoding='utf-8') as save_data:
                 save_data.write('%s\n%s\n%s\n' % (k, convert(k), convert_ordinary(k)))
-            print('%s\n%s\n%s\n' % (k, convert(k), convert_ordinary(k)))
+            print('%s\n%s\n%s\n' % (k, convert(k), convert_ordinary(k)))
